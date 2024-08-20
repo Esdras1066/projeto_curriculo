@@ -16,16 +16,14 @@ body{
 }
 
 h1{
-    background-color: #acafd4;
-    color: #061761;
+    color: black;
     text-align: center;
-    font-size: 46px;
+    font-size: 25px;
     margin-bottom: 0%;
 }
 
 h2{
     color: #061761;
-    background-color: #b6b6b6;
     font-size: 32px;
     border-bottom: 3px solid;
     padding: 6px;
